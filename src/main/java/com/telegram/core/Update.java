@@ -1,4 +1,4 @@
-package com.telegram.web;
+package com.telegram.core;
 
 import com.telegram.core.Message;
 import lombok.Getter;
